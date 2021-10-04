@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.864,=C:\Users\haiku\Desktop\course\source\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.603,C:\Users\haiku\Desktop\course\source\MainWindow.dfm=C:\Users\haiku\Documents\Embarcadero\Studio\Projects\MainWindow.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.805,C:\Users\haiku\Documents\Embarcadero\Studio\Projects\SoundSystem.pas=C:\Users\haiku\Documents\Embarcadero\Studio\Projects\Unit26.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.485,C:\Users\haiku\Desktop\course\source\FileChecker.pas=C:\Users\haiku\Documents\Embarcadero\Studio\Projects\FileChecker.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.492,=C:\Users\haiku\Documents\Embarcadero\Studio\Projects\Unit25.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.893,C:\Users\haiku\Documents\Embarcadero\Studio\Projects\Unit25.pas=C:\Users\haiku\Documents\Embarcadero\Studio\Projects\FileChecker.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.953,C:\Users\haiku\Documents\Embarcadero\Studio\Projects\Project4.dproj=C:\Users\haiku\Documents\Embarcadero\Studio\Projects\Project4.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.485,C:\Users\haiku\Documents\Embarcadero\Studio\Projects\Project4.dproj=C:\Users\haiku\Documents\Embarcadero\Studio\Projects\VideoBox.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.829,=C:\Users\haiku\Documents\Embarcadero\Studio\Projects\Unit16.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.222,C:\Users\haiku\Desktop\course\source\SoundSystem.pas=C:\Users\haiku\Documents\Embarcadero\Studio\Projects\SoundSystem.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.818,C:\Users\haiku\Documents\Embarcadero\Studio\Projects\MainWindow.dfm=C:\Users\haiku\Documents\Embarcadero\Studio\Projects\Unit16.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.279,C:\Users\haiku\Desktop\course\source\PlaylistSystem.pas=C:\Users\haiku\Desktop\course\source\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.818,C:\Users\haiku\Documents\Embarcadero\Studio\Projects\MainWindow.pas=C:\Users\haiku\Documents\Embarcadero\Studio\Projects\Unit16.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.300,C:\Users\haiku\Desktop\course\source\VideoBox.dproj=C:\Users\haiku\Documents\Embarcadero\Studio\Projects\VideoBox.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.251,=C:\Users\haiku\Documents\Embarcadero\Studio\Projects\Unit26.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.603,C:\Users\haiku\Desktop\course\source\MainWindow.pas=C:\Users\haiku\Documents\Embarcadero\Studio\Projects\MainWindow.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="MainWindow.pas"/>
+    <File Path="MainWindow.dfm"/>
+    <File Path="SoundSystem.pas"/>
+    <File Path="FileChecker.pas"/>
+    <File Path="PlaylistSystem.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>

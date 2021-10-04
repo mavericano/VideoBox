@@ -1,0 +1,19 @@
+program VideoBox;
+
+uses
+  Vcl.Forms,
+  MainWindow in '..\..\..\Documents\Embarcadero\Studio\Projects\MainWindow.pas' {MainForm},
+  Vcl.Themes,
+  Vcl.Styles,
+  FileChecker in '..\..\..\Documents\Embarcadero\Studio\Projects\FileChecker.pas',
+  SoundSystem in '..\..\..\Documents\Embarcadero\Studio\Projects\SoundSystem.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  TStyleManager.TrySetStyle('Obsidian');
+  Application.CreateForm(TMainForm, MainForm);
+  Application.Run;
+end.
